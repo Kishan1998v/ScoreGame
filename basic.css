@@ -1,0 +1,37 @@
+body{
+    border: 30px solid rgb(71, 68, 68);
+    
+    margin: 20px auto;
+    padding:  20px;
+    max-width: 700px;
+    width: 80%;
+    font-family:  'Poppins';
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+}
+input{
+    margin: 10px 10px 30px 10px;
+    padding:  10px;
+}
+
+
+.winner1{
+   color: rgb(73, 178, 49);
+   ;
+}
+.winner1b{
+    border: 30px solid darkslateblue ;
+    
+
+}
+.winner2{
+    color: rgb(73, 178, 49);
+   
+   
+}
+.winner2b{
+    
+    border: 30px solid darkslategrey ;
+}
+
+
